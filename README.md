@@ -3,7 +3,7 @@
 🎓 **Honors Computer Science Student** | Minor in Data Science  
 📍 University of Tennessee, Knoxville
 
-I'm passionate about leveraging technology and data to solve real-world problems. Currently, I am seeking opportunities such as internships, co-ops, or full-time roles in software development, data science, and research.
+I'm passionate about leveraging technology and data to solve real-world problems. Currently, I am seeking opportunities such as internships, co-ops, or part-time roles in software development, data science, and research.
 
 ## Connect with Me
 
