@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hi, I'm Anant Jeet Sahoo! 👋
+
+🎓 **Honors Computer Science Student** | Minor in Data Science  
+📍 University of Tennessee, Knoxville
+
+I'm passionate about leveraging technology and data to solve real-world problems. Currently, I am seeking opportunities such as internships, co-ops, or full-time roles in software development, data science, and research.
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/anant-j-sahoo/)
+- 📧 Email: <anantsahoo03@gmail.com>
+
+Feel free to explore my repositories below and reach out if you would like to collaborate or have any questions!
 
 <!--
 **anantsahoo/anantsahoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
