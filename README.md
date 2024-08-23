@@ -10,7 +10,7 @@ I'm passionate about leveraging technology and data to solve real-world problems
 - [LinkedIn](https://www.linkedin.com/in/anant-j-sahoo/)
 - 📧 Email: <anantsahoo03@gmail.com>
 
-Feel free to explore my repositories below and reach out if you would like to collaborate or have any questions!
+Feel free to explore my repositories and reach out if you would like to collaborate or have any questions!
 
 <!--
 **anantsahoo/anantsahoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
